@@ -32,6 +32,8 @@ How to use:
 - Realistic boat, works the best with realistic water, can be obtained via the Realistic Convertor
 - Realistic lava, burns things, converts into cobble stone on realistic water contact, burns flameable realistic blocks, burns leaves
 - Realistic sand
+- Realistic red sand
+- Realistic gravel
 - Realistic leaves
 - Realistic slime
 - Realistic things react to TNT (you can grab a realistic TNT and throw it)
@@ -48,6 +50,7 @@ How to use:
 - Vitrail shader loader support (Vitrail can load in any OF/Iris shader on Vulkan)
 - Realistic Ocean, changes how the oceans render plus it reacts to entities/realistic items from this mod
 - Realistic kelp, its a toggle you can turn on/off in "/water" it lets you grab a kelp, move it, and it will react to things around it
+- limb hitboxes
 
 **Showcase:** https://www.youtube.com/watch?v=lwkttY9Xcmk
 
