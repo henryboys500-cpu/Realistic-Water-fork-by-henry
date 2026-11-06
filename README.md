@@ -7,7 +7,7 @@ A Minecraft mod that adds a lot of cool, realistic stuff from Minecraft Blender 
 
 How to use:
 
-1. Download the latest version from: https://github.com/sskaffy/Realistic-Water/releases/
+1. Download the original latest version from: https://github.com/sskaffy/Realistic-Water/releases/
 2. Install Fabric (Tutorial: https://docs.fabricmc.net/players/installing-fabric/)
 3. Put the mod to the mods folder
 4. Open the game and set the Graphics API in the Video Settings to Vulkan and then restart the game
