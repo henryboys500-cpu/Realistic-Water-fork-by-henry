@@ -1,7 +1,7 @@
 # Realistic Water
 A Minecraft mod that adds a lot of cool, realistic stuff from Minecraft Blender animations.
 
-![Project Screenshot](images/1.png)
+![Project Screenshot](images/2026-11-06_03.08.12.png)
 
 #
 
