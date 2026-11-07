@@ -51,5 +51,7 @@ How to use:
 - Realistic Ocean, changes how the oceans render plus it reacts to entities/realistic items from this mod
 - Realistic kelp, its a toggle you can turn on/off in "/water" it lets you grab a kelp, move it, and it will react to things around it
 - limb hitboxes
+- realistic snow block
+- realistic snow layer
 
 Credits: https://github.com/sskaffy
